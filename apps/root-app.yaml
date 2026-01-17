@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'git@github.com:paldinesh025@gmail.com/https://github.com/dinup-test/argo-demo.git.git'
+    repoURL: 'https://github.com/dinup-test/argo-demo.git.git'
     targetRevision: main
     path: apps
   destination:
